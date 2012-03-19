@@ -1,5 +1,5 @@
 {
-    "name": "alpaca",
+    "name": "alpaca/alpaca",
     "type": "library",
     "description": "Acceptance test framework for web applications.",
     "keywords": ["alpaca","webkit","capybara"],
